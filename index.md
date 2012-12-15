@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 社会与技术!
+tagline: 未来计算机是什么角色？
 ---
 {% include JB/setup %}
 
